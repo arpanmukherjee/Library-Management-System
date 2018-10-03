@@ -7,3 +7,4 @@ and ebook may store edition details(Number, release year) and each periodical sh
 period detail.
 The library manager may reserve or release an item in the records, on the respective event of
 issuing or return of a resource.
+This project has been completed under the course OOPD for 1st semester.
